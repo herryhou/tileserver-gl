@@ -206,7 +206,7 @@ function start(opts) {
         return;
       }
       for (const file of files) {
-        if (file.isFile() &&
+        if (file.isFile && file.isFile() &&
             path.extname(file.name).toLowerCase() == '.json') {
           let id = path.basename(file.name, '.json');
           let item = {
