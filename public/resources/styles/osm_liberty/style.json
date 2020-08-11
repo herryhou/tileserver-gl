@@ -4,7 +4,7 @@
   "sources": {
     "tileData": {
       "type": "vector",
-      "url": "mbtiles://{taiwan}"
+      "url": "mbtiles://{taichung}"
     },
     "natural_earth_shaded_relief": {
       "maxzoom": 6,

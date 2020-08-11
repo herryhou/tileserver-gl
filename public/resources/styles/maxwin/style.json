@@ -7,7 +7,7 @@
 	"sources": {
 		"tileData": {
 			"type": "vector",
-			"url": "mbtiles://{tw-tc}"
+			"url": "mbtiles://{taichung}"
 		}
 	},
 	"glyphs": "{fontstack}/{range}.pbf",

@@ -1,0 +1,37 @@
+{
+	"options": {
+		"paths": {
+			"root": "public/resources",
+			"fonts": "fonts",
+			"sprites": "sprites",
+			"styles": "styles",
+			"mbtiles": "mbtiles"
+		},
+		"maxScaleFactor": 3,
+		"maxSize": 2048,
+		"pbfAlias": "pbf",
+		"serveAllFonts": true,
+		"serveAllStyles": true,
+		"serveStaticMaps": true,
+		"tileMargin": 0
+	},
+	"styles": {
+		"maxwin": {
+			"style": "maxwin/style.json",
+			"tilejson": {
+				"bounds": [120.4412, 24.075, 120.844, 24.354]
+			}
+		},
+		"osm_liberty": {
+			"style": "osm_liberty/style.json",
+			"tilejson": {
+				"bounds": [120.4412, 24.075, 120.844, 24.354]
+			}
+		}
+	},
+	"data": {
+		"taichung": {
+			"mbtiles": "taichung/taichung-20200811.mbtiles"
+		}
+	}
+}
