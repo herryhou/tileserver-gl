@@ -7,7 +7,7 @@
 	"sources": {
 		"tileData": {
 			"type": "vector",
-			"url": "mbtiles://{taichung}"
+			"url": "mbtiles://{taiwan}"
 		}
 	},
 	"glyphs": "{fontstack}/{range}.pbf",

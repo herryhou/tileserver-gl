@@ -32,6 +32,15 @@
 	"data": {
 		"taichung": {
 			"mbtiles": "taichung/taichung-20200811.mbtiles"
+		},
+		"tc": {
+			"mbtiles": "taichung/tc.mbtiles"
+		},
+		"tc1": {
+			"mbtiles": "taichung/tc1.mbtiles"
+		},
+		"taiwan": {
+			"mbtiles": "taiwan/taiwan-20200811.mbtiles"
 		}
 	}
 }
